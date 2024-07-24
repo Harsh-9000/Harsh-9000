@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Harsh!
 I'm currently a B.Tech student with a passion for coding. While I am currently focused on web development, I enjoy learning about various areas of technology and expanding my skill set. In addition to coding, I also have a love for art.
 
 
